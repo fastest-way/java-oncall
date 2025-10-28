@@ -82,8 +82,8 @@ BUILD SUCCESSFUL in 0s
 - 비상 근무자 배정 시 다음 근무자와 순서를 바꿔야 하는 경우에는, 앞의 날짜부터 순서를 변경해야 한다.    
 
 ### 비상 근무자 배정 관련 참고 문서
-![notice-1.png](notice-1.png)
-![notice-2.png](notice-2.png)
+![1.png](1.png)
+![2.png](2.png)
 
 ### 입출력 요구 사항
 
